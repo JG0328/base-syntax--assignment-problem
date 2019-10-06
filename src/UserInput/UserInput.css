@@ -1,0 +1,12 @@
+.UserInput{
+    text-align: center;
+}
+
+.UserInput input{
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+    background-color: beige;
+    color: black;
+    border: 2px aqua solid;
+}
